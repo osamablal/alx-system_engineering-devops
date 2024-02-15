@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+sh: 1: q: not found
 """Function to query subscribers on a given Reddit subreddit."""
 import requests
 
